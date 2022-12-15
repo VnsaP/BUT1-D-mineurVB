@@ -1,0 +1,41 @@
+Z:\IHM visual basic\Projet1\Projet1\obj\Debug\Projet1.vbproj.AssemblyReference.cache
+Z:\IHM visual basic\Projet1\Projet1\obj\Debug\Projet1.Form1.resources
+Z:\IHM visual basic\Projet1\Projet1\obj\Debug\Projet1.Resources.resources
+Z:\IHM visual basic\Projet1\Projet1\obj\Debug\Projet1.vbproj.GenerateResource.cache
+Z:\IHM visual basic\Projet1\Projet1\obj\Debug\Projet1.vbproj.CoreCompileInputs.cache
+Z:\IHM visual basic\Projet1\Projet1\bin\Debug\Projet1.exe.config
+Z:\IHM visual basic\Projet1\Projet1\bin\Debug\Projet1.exe
+Z:\IHM visual basic\Projet1\Projet1\bin\Debug\Projet1.pdb
+Z:\IHM visual basic\Projet1\Projet1\bin\Debug\Projet1.xml
+Z:\IHM visual basic\Projet1\Projet1\obj\Debug\Projet1.exe
+Z:\IHM visual basic\Projet1\Projet1\obj\Debug\Projet1.xml
+Z:\IHM visual basic\Projet1\Projet1\obj\Debug\Projet1.pdb
+Z:\IHM visual basic\Projet1\Projet1\obj\Debug\Projet1.Form2.resources
+C:\Users\xingt\Downloads\Projet1_2\Projet1\Projet1\bin\Debug\Projet1.exe.config
+C:\Users\xingt\Downloads\Projet1_2\Projet1\Projet1\bin\Debug\Projet1.exe
+C:\Users\xingt\Downloads\Projet1_2\Projet1\Projet1\bin\Debug\Projet1.pdb
+C:\Users\xingt\Downloads\Projet1_2\Projet1\Projet1\bin\Debug\Projet1.xml
+C:\Users\xingt\Downloads\Projet1_2\Projet1\Projet1\obj\Debug\Projet1.vbproj.AssemblyReference.cache
+C:\Users\xingt\Downloads\Projet1_2\Projet1\Projet1\obj\Debug\Projet1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\xingt\Downloads\Projet1_2\Projet1\Projet1\obj\Debug\Projet1.Form1.resources
+C:\Users\xingt\Downloads\Projet1_2\Projet1\Projet1\obj\Debug\Projet1.Form2.resources
+C:\Users\xingt\Downloads\Projet1_2\Projet1\Projet1\obj\Debug\Projet1.Resources.resources
+C:\Users\xingt\Downloads\Projet1_2\Projet1\Projet1\obj\Debug\Projet1.vbproj.GenerateResource.cache
+C:\Users\xingt\Downloads\Projet1_2\Projet1\Projet1\obj\Debug\Projet1.vbproj.CoreCompileInputs.cache
+C:\Users\xingt\Downloads\Projet1_2\Projet1\Projet1\obj\Debug\Projet1.exe
+C:\Users\xingt\Downloads\Projet1_2\Projet1\Projet1\obj\Debug\Projet1.xml
+C:\Users\xingt\Downloads\Projet1_2\Projet1\Projet1\obj\Debug\Projet1.pdb
+C:\Users\PC\OneDrive\Documents\VB\Projet1\Projet1\bin\Debug\Projet1.exe.config
+C:\Users\PC\OneDrive\Documents\VB\Projet1\Projet1\bin\Debug\Projet1.exe
+C:\Users\PC\OneDrive\Documents\VB\Projet1\Projet1\bin\Debug\Projet1.pdb
+C:\Users\PC\OneDrive\Documents\VB\Projet1\Projet1\bin\Debug\Projet1.xml
+C:\Users\PC\OneDrive\Documents\VB\Projet1\Projet1\obj\Debug\Projet1.vbproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Documents\VB\Projet1\Projet1\obj\Debug\Projet1.Form1.resources
+C:\Users\PC\OneDrive\Documents\VB\Projet1\Projet1\obj\Debug\Projet1.Form2.resources
+C:\Users\PC\OneDrive\Documents\VB\Projet1\Projet1\obj\Debug\Projet1.Resources.resources
+C:\Users\PC\OneDrive\Documents\VB\Projet1\Projet1\obj\Debug\Projet1.vbproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Documents\VB\Projet1\Projet1\obj\Debug\Projet1.vbproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\VB\Projet1\Projet1\obj\Debug\Projet1.exe
+C:\Users\PC\OneDrive\Documents\VB\Projet1\Projet1\obj\Debug\Projet1.xml
+C:\Users\PC\OneDrive\Documents\VB\Projet1\Projet1\obj\Debug\Projet1.pdb
+C:\Users\PC\OneDrive\Documents\VB\Projet1\Projet1\obj\Debug\Projet1.Form3.resources
